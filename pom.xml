@@ -3,6 +3,8 @@
   <groupId>JenkinDocker</groupId>
   <artifactId>JenkinDocker</artifactId>
   <version>0.0.1-SNAPSHOT</version>
- 
+ <build>
+   <finalName>java-jenkins-docker</finalName>
+  </build>
 
 </project>
